@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="lazyload/app" />
       <module fileurl="file://$PROJECT_DIR$/lazyload.iml" filepath="$PROJECT_DIR$/lazyload.iml" group="lazyload" />
+      <module fileurl="file://$PROJECT_DIR$/vp_init/vp_init.iml" filepath="$PROJECT_DIR$/vp_init/vp_init.iml" group="lazyload/vp_init" />
     </modules>
   </component>
 </project>
